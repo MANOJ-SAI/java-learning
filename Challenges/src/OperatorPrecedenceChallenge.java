@@ -20,6 +20,7 @@ public class OperatorPrecedenceChallenge {
     public void displayResult(){
         System.out.println("result = "+this.result);
         System.out.println("remainder = "+this.remainder);
+        System.out.println("Is No Remainder = "+this.value3);
         if(!this.value3)
             System.out.println("Got some remainder "+this.remainder);
     }
