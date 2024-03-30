@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/IfStatment/IfStatment.iml" filepath="$PROJECT_DIR$/IfStatment/IfStatment.iml" />
       <module fileurl="file://$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" filepath="$PROJECT_DIR$/KeywordsAndExpressions/KeywordsAndExpressions.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogicalAND/LogicalAND.iml" filepath="$PROJECT_DIR$/LogicalAND/LogicalAND.iml" />
+      <module fileurl="file://$PROJECT_DIR$/StatementsWhiteSpaceAndIndentating/StatementsWhiteSpaceAndIndentating.iml" filepath="$PROJECT_DIR$/StatementsWhiteSpaceAndIndentating/StatementsWhiteSpaceAndIndentating.iml" />
       <module fileurl="file://$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" filepath="$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-learning.iml" filepath="$PROJECT_DIR$/.idea/java-learning.iml" />
     </modules>
