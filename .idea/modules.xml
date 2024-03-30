@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Challenges/Challenges.iml" filepath="$PROJECT_DIR$/Challenges/Challenges.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/IfStatment/IfStatment.iml" filepath="$PROJECT_DIR$/IfStatment/IfStatment.iml" />
       <module fileurl="file://$PROJECT_DIR$/LogicalAND/LogicalAND.iml" filepath="$PROJECT_DIR$/LogicalAND/LogicalAND.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" filepath="$PROJECT_DIR$/TernaryOperator/TernaryOperator.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java-learning.iml" filepath="$PROJECT_DIR$/.idea/java-learning.iml" />
     </modules>
   </component>
